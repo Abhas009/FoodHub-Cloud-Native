@@ -1,3 +1,11 @@
+## Note on Repository Scope
+
+This repository represents the **architecture, structure, and implementation approach**
+of a cloud-native food ordering platform.
+
+Some internal modules, configurations, or services are intentionally excluded
+as this project was built for learning and demonstration purposes.
+
 # FoodHub – Cloud-Native Food Ordering Platform
 
 **Timeline:** Mar 2024 – Jun 2024  
